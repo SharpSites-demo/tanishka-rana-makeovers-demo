@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#080b12"/>
+  <circle cx="1045" cy="95" r="250" fill="#ff9e44" opacity=".55"/>
+  <rect x="58" y="58" width="1084" height="514" rx="32" fill="#111725" stroke="#5a7cff" stroke-width="6"/>
+  <text x="104" y="140" fill="#5a7cff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="4">BRIDAL MAKEUP ARTIST</text>
+  <text x="104" y="250" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800">Tanishka Rana Makeovers</text>
+  <text x="104" y="530" fill="#f4f7ff" opacity=".7" font-family="Arial,Helvetica,sans-serif" font-size="26">Services, details and direct enquiries</text>
+</svg>
